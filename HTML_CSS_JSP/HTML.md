@@ -7,3 +7,10 @@
 <span>  没有特殊标记的a标签
 <br>    换行<b> 加粗   <p>文本
 <form>   表单
+
+
+
+CSS
+装修 
+style
+. (class)    # (id)    * (all)
